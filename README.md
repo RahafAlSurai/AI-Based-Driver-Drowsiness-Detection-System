@@ -92,7 +92,7 @@ AI-Based-Driver-Drowsiness-Detection-System/
 
 ## Documentation
 
-Detailed documentation is available in the `docs/` folder:
+Detailed documentation is available in the `doc/` folder:
 
 * Presentations
 * Final report
