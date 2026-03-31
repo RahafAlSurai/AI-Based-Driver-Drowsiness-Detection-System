@@ -92,9 +92,3 @@ This project demonstrates how AI and embedded systems can be combined to create 
 The system is cost-effective, portable, and suitable for real-world deployment.
 
 ---
-
-## Author
-
-Rahaf
-
----
