@@ -61,25 +61,6 @@ If the driver's eyes remain closed for a few seconds:
 
 ---
 
-## Project Structure
-
-```
-AI-Based-Driver-Drowsiness-Detection-System/
-├── README.md
-├── model/
-│   └── drowsiness_project_sarah_final.ipynb
-├── arduino/
-│   ├── final_drowsiness_alert.ino
-│   └── ei-drowsy-model.zip
-├── docs/
-│   ├── GP1-presentation.pdf
-│   ├── GP2-presentation.pdf
-│   ├── GP2-report.pdf
-└── poster.jpeg
-```
-
----
-
 ## How to Run
 
 1. Upload the Arduino code to the ESP32 device
