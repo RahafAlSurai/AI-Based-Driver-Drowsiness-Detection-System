@@ -17,10 +17,18 @@ The system monitors eye closure and triggers an alert when drowsiness is detecte
 
 ## Technologies Used
 
-* Edge Impulse (AI model training & deployment)
-* Arduino / ESP32 Camera
-* Embedded Systems
-* Python (Model training & testing)
+# Software
+Python
+TensorFlow / Keras
+OpenCV
+Edge Impulse
+Convolutional Neural Network (CNN - MobileNetV2)
+Jupyter Notebook
+# Hardware
+Arduino (Arduino Uno / compatible board)
+Arduino Nicla Vision Camera
+Buzzer (Alert System)
+Breadboard & Jumper Wires
 
 ---
 
