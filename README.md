@@ -39,7 +39,7 @@ The system monitors eye closure and triggers an alert when drowsiness is detecte
 
 ---
 
-## System Running
+## Hardware Setup (Arduino Board & Nicla Vision Camera)
 
 ![Running](images/running.jpeg)
 
