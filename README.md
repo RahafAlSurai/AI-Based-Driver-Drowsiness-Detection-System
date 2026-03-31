@@ -35,13 +35,13 @@ The system monitors eye closure and triggers an alert when drowsiness is detecte
 
 ## Project Overview
 
-![System](images/system.jpg)
+![System](images/system.jpeg)
 
 ---
 
 ## System Running
 
-![Running](images/running.jpg)
+![Running](images/running.jpeg)
 
 ---
 
